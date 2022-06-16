@@ -35,7 +35,7 @@ At the end of this project, We were able to solve these questions:
 13. Implement the rotl opcode.
 14. Implement the rotr opcode.
 15. Implement the stack and queue opcodes.
-16. Write a Brainf*ck script that prints Holberton (at bf/dir)
+16. Write a Brainf*ck script that prints School (at bf/dir)
 17. Read the two digits from stdin, add them, and print the result (at bf/dir)
 18. Read the two digits from stdin, multiply them, and print the result (at bf/dir)
 19. Multiply two digits given by the user. (at bf/dir)
