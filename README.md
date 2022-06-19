@@ -61,3 +61,7 @@ cd bytecodes
 cat bytecodes/FILENAME.m
 ./monty bytecodes/FILENAME.m
 ```
+
+Authors
+- Prince Andrew Ardayfio
+- Seifu Detso
